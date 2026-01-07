@@ -48,7 +48,7 @@ Promotes meritocracy: Fair evaluation of candidates based on skills and fit.
 # DEMO LINK:https://mock-mate--mohammedmudas15.replit.app
 
 ![Image Alt Text](https://github.com/Vinaypal07/MockMate/blob/main/Screenshot%202026-01-06%20151654.png)
-![Image Alt Text](https://github.com/Vinaypal07/MockMate/blob/main/Screenshot%202026-01-07%20103043.png)
-![Image Alt Text](https://github.com/Vinaypal07/MockMate/blob/main/Screenshot%202026-01-07%20103026.png)
-![Image Alt Text](https://github.com/Vinaypal07/MockMate/blob/main/Screenshot%202026-01-06%20151757.png)
 ![Image Alt Text](https://github.com/Vinaypal07/MockMate/blob/main/Screenshot%202026-01-06%20151715.png)
+![Image Alt Text](https://github.com/Vinaypal07/MockMate/blob/main/Screenshot%202026-01-06%20151757.png)
+![Image Alt Text](https://github.com/Vinaypal07/MockMate/blob/main/Screenshot%202026-01-07%20103026.png)
+![Image Alt Text](https://github.com/Vinaypal07/MockMate/blob/main/Screenshot%202026-01-07%20103043.png)
