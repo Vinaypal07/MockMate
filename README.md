@@ -46,3 +46,9 @@ Efficient hiring process: Well-prepared candidates make the hiring process smoot
 Promotes meritocracy: Fair evaluation of candidates based on skills and fit.
 
 # DEMO LINK:https://mock-mate--mohammedmudas15.replit.app
+
+![Image Alt Text]()
+![Image Alt Text]()
+![Image Alt Text]()
+![Image Alt Text]()
+![Image Alt Text]()
